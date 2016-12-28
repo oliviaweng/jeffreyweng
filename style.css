@@ -1,0 +1,15 @@
+body
+{
+	margin: 40px auto; width: 70%;
+	padding: 0px;
+	background-color: #f2f2f2;
+	font-family: verdana;
+}
+#top
+{
+	background: #002299;
+	position: fixed;
+	height: 5px;
+	left: 0; right: 0;
+	top: 0;
+}

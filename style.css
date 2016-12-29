@@ -5,6 +5,25 @@ body
 	background-color: #f2f2f2;
 	font-family: helvetica;
 }
+a
+{
+	text-decoration: none;
+	color: #002299;
+}
+a:hover
+{
+	font-weight: bold;
+}
+header a
+{
+	text-decoration: none;
+	color: black;
+}
+header a:hover
+{
+	text-decoration: none;
+	color: #002299;
+}
 #top
 {
 	background: #002299;

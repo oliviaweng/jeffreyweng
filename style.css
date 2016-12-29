@@ -58,7 +58,7 @@ nav ul
 }
 nav ul li
 {
-	display: inline;
+	display: inline-block;
 	padding: 0 10px 0 10px;
 }
 nav ul li a
@@ -68,6 +68,12 @@ nav ul li a
 nav ul li a:hover, nav ul li a.current
 {
 	color: black;
+}
+hr
+{
+	position: absolute;
+	top: 125px;
+	width: 1000px;
 }
 footer
 {

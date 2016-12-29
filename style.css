@@ -14,6 +14,8 @@ a
 {
 	text-decoration: none;
 	color: #002299;
+	transition: 0.35s ease-in-out;
+
 }
 a:hover
 {
@@ -23,7 +25,7 @@ header a
 {
 	text-decoration: none;
 	color: black;
-	transition: 0.35s ease-in-out;
+	transition: 0.40s ease-in-out;
 }
 header a:hover
 {

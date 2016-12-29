@@ -1,19 +1,15 @@
 body
 {
-	margin: 40px auto; width: 1000px;
+	margin: 40px auto; width: 700px;
 	padding:35px;
 	background-color: #f2f2f2;
 	font-family: helvetica;
 	font-size: 11pt;
 }
-p
-{
-	color: black;
-}
 a
 {
 	text-decoration: none;
-	color: #002299;
+	color: #0066cc;
 	transition: 0.35s ease-in-out;
 
 }
@@ -21,6 +17,7 @@ a:hover
 {
 	text-decoration: underline;
 }
+
 header a
 {
 	text-decoration: none;
@@ -30,27 +27,26 @@ header a
 header a:hover
 {
 	text-decoration: none;
-	color: #002299;
+	color: #0066cc;
 }
 #top
 {
-	background: #002299;
+	background: #0066cc;
 	position: fixed;
 	height: 5px;
 	left: 0; right: 0;
 	top: 0;
 }
-h1
+header p
 {
 	position: absolute;
 	font-size: 45px;
-	top: 40px;
+	top: 27px;
 }
 nav
 {
 	float: right;
 	font-size: 16pt;
-	font-weight: bold;
 }
 nav ul
 {
@@ -61,34 +57,55 @@ nav ul li
 	display: inline-block;
 	padding: 0 10px 0 10px;
 }
-nav ul li a
-{
-	color: #002299;
-}
 nav ul li a:hover, nav ul li a.current
 {
-	color: black;
+	color: #0066cc;
 }
 hr
 {
 	position: absolute;
 	top: 125px;
-	width: 1000px;
+	width: 700px;
+}
+br.clearfix
+{
+	clear: both;
+}
+p
+{
+	line-height: 150%;
+	font-size: 12pt;
+}
+img.portrait
+{
+	float: right;
+	margin: 20px 0 0 20px;
+	width: 250px; 
+	height: 300px;
+	border: solid;
+	border-color: #b3b3b3;
+}
+section.contact ul
+{
+	list-style: none;
+	line-height: 150%;
+	font-size: 12pt;
 }
 footer
 {
+	clear: both;
 	position: fixed;
 	left: 0px;
 	bottom: 0px;
 	height: 40px;
 	width: 100%;
-	background: #002299;
+	background: #0066cc;
 }
 footer p
 {
-	margin: 15px;
+	margin: 10px;
 	color: #f2f2f2;
 	text-align: center;
-	font-size: 8pt;
+	font-size: 10pt;
 	
 }

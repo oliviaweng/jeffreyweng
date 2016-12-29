@@ -5,6 +5,11 @@ body
 	background-color: #f2f2f2;
 	font-family: helvetica;
 }
+p
+{
+	font-size: 14px;
+	color: black;
+}
 a
 {
 	text-decoration: none;
@@ -12,7 +17,7 @@ a
 }
 a:hover
 {
-	font-weight: bold;
+	text-decoration: underline;
 }
 header a
 {
@@ -31,4 +36,24 @@ header a:hover
 	height: 5px;
 	left: 0; right: 0;
 	top: 0;
+}
+h1
+{
+	font-size: 40px;
+}
+footer
+{
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	height: 45px;
+	width: 100%;
+	background: #002299;
+}
+footer p
+{
+	margin: 15px;
+	color: #f2f2f2;
+	text-align: center;
+	
 }

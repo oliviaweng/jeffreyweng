@@ -1,37 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Jeffrey Weng</title>
-    <link>http://jeffreyweng.github.io/</link>
-    <description>Recent content on Jeffrey Weng</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 26 Aug 2020 14:03:27 -0700</lastBuildDate><atom:link href="http://jeffreyweng.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>http://jeffreyweng.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jeffreyweng.github.io/contact/</guid>
-      <description>Department of Sociology
-National Taiwan University
-No. 1, Sec. 4, Roosevelt Rd.
-Taipei 10617
-Taiwan
-jeffweng at ntu.edu.tw</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>http://jeffreyweng.github.io/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://jeffreyweng.github.io/publications/</guid>
-      <description>Book Weng, Jeffrey. Forthcoming. With One Voice: Mandarin’s Conquest of China. Stanford: Stanford University Press.
-Peer-Reviewed Articles Weng, Jeffrey. 2023. “Stop the Presses! Publishing Chinese Character Simplification, 1935–1936.” Harvard Journal of Asiatic Studies 83(2): 333–364. Project Muse
-Weng, Jeffrey. 2020. “End of an Era: Transforming Language and Society in Japan, Korea, and Vietnam, ca. 1870–1950.” European Journal of Sociology 61(2): 269–299. PDF
-Weng, Jeffrey. 2020. &amp;ldquo;Uneasy Companions: Language and Human Collectivities in the Remaking of Chinese Society in the Early Twentieth Century.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Jeffrey Weng</title>
+		<link>http://jeffreyweng.github.io/</link>
+		<description>Recent content on Jeffrey Weng</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://jeffreyweng.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Contact</title>
+				<link>http://jeffreyweng.github.io/contact/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://jeffreyweng.github.io/contact/</guid>
+				<description>&lt;p&gt;Department of Sociology&lt;br&gt;&#xA;National Taiwan University&lt;br&gt;&#xA;No. 1, Sec. 4, Roosevelt Rd.&lt;br&gt;&#xA;Taipei 10617&lt;br&gt;&#xA;Taiwan&lt;/p&gt;&#xA;&lt;p&gt;jeffweng &lt;em&gt;at&lt;/em&gt; ntu.edu.tw&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Publications</title>
+				<link>http://jeffreyweng.github.io/publications/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://jeffreyweng.github.io/publications/</guid>
+				<description>&lt;h3 id=&#34;book&#34;&gt;Book&lt;/h3&gt;&#xA;&lt;p&gt;Weng, Jeffrey. Forthcoming (November 2026). &lt;em&gt;With One Voice: Mandarin’s Conquest of China.&lt;/em&gt; Stanford: Stanford University Press. &lt;a href=&#34;https://www.sup.org/books/asian-studies/one-voice&#34;&gt;Publisher page&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;peer-reviewed-articles&#34;&gt;Peer-Reviewed Articles&lt;/h3&gt;&#xA;&lt;p&gt;Weng, Jeffrey. 2023. “Stop the Presses! Publishing Chinese Character Simplification, 1935–1936.” &lt;em&gt;Harvard Journal of Asiatic Studies&lt;/em&gt; 83(2): 333–364. &lt;a href=&#34;https://muse.jhu.edu/pub/109/article/938222&#34;&gt;Project Muse&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Weng, Jeffrey. 2020. “End of an Era: Transforming Language and Society in Japan, Korea, and Vietnam, ca. 1870–1950.” &lt;em&gt;European Journal of Sociology&lt;/em&gt; 61(2): 269–299. &lt;a href=&#34;http://jeffreyweng.github.io/CJKV.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Weng, Jeffrey. 2020. &amp;ldquo;Uneasy Companions: Language and Human Collectivities in the Remaking of Chinese Society in the Early Twentieth Century.&amp;rdquo; &lt;em&gt;Theory &amp;amp; Society.&lt;/em&gt; 49(1):75–100. &lt;a href=&#34;http://jeffreyweng.github.io/LCN.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
